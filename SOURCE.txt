@@ -1,0 +1,2 @@
+Client application source: https://github.com/andics/ShieldShooter/
+Server application source: https://github.com/andics/ShieldShooterServer/
